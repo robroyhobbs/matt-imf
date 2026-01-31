@@ -156,7 +156,7 @@ IMF uses a three-state model across all domains:
 
 Markup syntax:
 ```markdown
-::: locked {by=robert reason="Company positioning"}
+::: locked {by=leader reason="Company positioning"}
 ## Brand Category
 We are an AI-Native Engineering company.
 :::

@@ -9,9 +9,15 @@
 
 ## Project Overview
 
+> **Note: Framework Demonstration**
+>
+> This document serves as a **template and example** of how IMF can be applied to a real project. The DID content shown here is illustrative placeholder content — actual product specifications, technical details, and messaging would be developed through the IMF process with the relevant stakeholders.
+>
+> Use this as a structural guide, not as final DID documentation.
+
 ### Objective
 
-Produce a comprehensive suite of DID (Decentralized Identity) materials using the full IMF workflow, demonstrating cross-functional collaboration between founder, marketing, and development.
+Produce a comprehensive suite of DID (Decentralized Identity) materials using the full IMF workflow, demonstrating cross-functional collaboration between leadership, marketing, and development.
 
 ### Deliverables
 
@@ -89,7 +95,7 @@ Establish the foundational "why" for DID that both dev and marketing will refere
 
 ### Process
 
-1. `/imf-interview` with Robert
+1. `/imf-interview` with leadership
 2. Capture vision, category, principles
 3. Lock L0 sections
 
@@ -98,7 +104,7 @@ Establish the foundational "why" for DID that both dev and marketing will refere
 ```markdown
 # DID Strategic Intent
 
-::: locked {by=robert date=2026-01-30}
+::: locked {by=leader date=2026-01-30}
 ## Vision
 
 Decentralized identity infrastructure that makes users the sovereign owners
@@ -525,7 +531,7 @@ accounts. Share only what's needed. Revoke access anytime.
 
 | Role | Person | Responsibilities |
 |------|--------|------------------|
-| Strategic Owner | Leadership (Robert/Matt/etc.) | L0 approval, final sign-off |
+| Strategic Owner | Leadership | L0 approval, final sign-off |
 | Marketing Lead | Matt | IDM intent, messaging approval |
 | Dev Lead | TBD | IDD intent, technical accuracy |
 | AI Operator | Matt/Dev | Run generation, verification |

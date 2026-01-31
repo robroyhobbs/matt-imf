@@ -34,7 +34,7 @@ IMF needs tools to help with:
 
 ### AFS (Agentic File System)
 
-Robert is building AFS as the foundational layer for AI-Native systems. IMF should consider:
+AFS is being built as the foundational layer for AI-Native systems. IMF should consider:
 
 - How do intent files map to AFS?
 - Can AFS provide the "source of truth" layer for L0/L1?
@@ -140,7 +140,7 @@ The IDD plugin already exists with skills like `/intent-interview`, `/intent-rev
 
 Before implementing tools, we need to discuss:
 
-### With Robert (Platform)
+### With Platform Team
 - How does IMF fit with AFS vision?
 - What is AOS and how do agents/skills run there?
 - Should intent files be AFS-native?

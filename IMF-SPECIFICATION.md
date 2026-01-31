@@ -243,7 +243,7 @@ IMF uses the same three-state model as IDD, extended to all domains.
 Same fenced div format as IDD:
 
 ```markdown
-::: locked {by=robert reason="Company positioning"}
+::: locked {by=leader reason="Company positioning"}
 ## Brand Category
 We are an AI-Native Engineering company, not a blockchain company.
 :::
