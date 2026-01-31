@@ -87,6 +87,7 @@ Dev and Marketing work from the **same L0 source**. Cross-verification ensures c
 │  └── Dependencies               └── Messaging Pillars               │
 │                                                                     │
 │  SHARED (The Meeting Ground)                                        │
+│  ├── PRODUCT.md       What is it? What does it do?                  │
 │  ├── PERSONAS.md      Who buys? When do they need it?               │
 │  ├── POSITIONING.md   What problem? What solution? What NOT?        │
 │  ├── COMPETITIVE.md   Why us? What objections?                      │
@@ -120,6 +121,7 @@ The shared layer is where Product and Marketing **must agree**. Seven files answ
 
 | File | Questions Answered |
 |------|-------------------|
+| `PRODUCT.md` | What is it? What does it do? What's the scope? |
 | `PERSONAS.md` | Who buys? When do they need it? |
 | `POSITIONING.md` | What problem? What solution? What do we NOT do? |
 | `COMPETITIVE.md` | Why us? What will they object to? |
@@ -128,7 +130,7 @@ The shared layer is where Product and Marketing **must agree**. Seven files answ
 | `GLOSSARY.md` | What do terms mean? |
 | `DIAGRAMS/` | How do we show it? |
 
-**Seven files. Ten questions. One source of truth.**
+**Eight files. Twelve questions. One source of truth.**
 
 ---
 
@@ -198,6 +200,7 @@ project/
 │   ├── INTENT.md                     # L0: Strategic Intent
 │   │
 │   ├── shared/                       # The Meeting Ground
+│   │   ├── PRODUCT.md
 │   │   ├── PERSONAS.md
 │   │   ├── POSITIONING.md
 │   │   ├── COMPETITIVE.md

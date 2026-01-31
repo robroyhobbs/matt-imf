@@ -89,14 +89,19 @@ The IDD plugin already exists with skills like `/intent-interview`, `/intent-rev
 - What will we always do? Never do?
 - What's shared vs domain-specific?
 
+**Product (Shared):**
+- What is the product? What does it do?
+- What are the capabilities and scope?
+- What's in vs out of scope?
+
 **Marketing (IDM):**
 - Who is the audience? What pain do they feel?
 - What's the one thing they should remember?
 - How are we different? What proof do we have?
 - What can we claim? What needs verification?
 
-**Product (IDD):**
-- What are we building? What's the scope?
+**Development (IDD):**
+- How does it work technically?
 - What are the technical constraints?
 - What's the architecture?
 

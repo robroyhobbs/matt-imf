@@ -44,6 +44,7 @@ did-project/
 │   ├── INTENT.md                     # L0: Strategic Intent
 │   │
 │   ├── shared/                       # The Meeting Ground
+│   │   ├── PRODUCT.md                # What DID is, capabilities, scope
 │   │   ├── PERSONAS.md               # Developer, Enterprise, Consumer + use cases
 │   │   ├── POSITIONING.md            # Identity problem, DID solution, boundaries
 │   │   ├── COMPETITIVE.md            # vs other identity solutions, objections

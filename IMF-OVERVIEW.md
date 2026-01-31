@@ -107,6 +107,7 @@ The shared layer is where Product and Marketing **must agree**. It answers the f
 
 | File | Questions Answered | Contents |
 |------|-------------------|----------|
+| `PRODUCT.md` | **What is it? What does it do? What's the scope?** | Product definition, capabilities, boundaries, version scope |
 | `PERSONAS.md` | **Who buys? When do they need it?** | Buyer definitions, pain points, language, use cases, triggers |
 | `POSITIONING.md` | **What problem? What's the solution? What do we NOT do?** | Problem statement, solution framing, category, explicit boundaries |
 | `COMPETITIVE.md` | **Why us? What will they object to?** | Alternatives, differentiators, objections and responses |
@@ -115,7 +116,7 @@ The shared layer is where Product and Marketing **must agree**. It answers the f
 | `GLOSSARY.md` | **What do terms mean?** | Canonical definitions, technical ↔ plain language |
 | `DIAGRAMS/` | **How do we show it?** | Visual explanations, architecture, flows |
 
-**Seven files. Ten questions. One source of truth.**
+**Eight files. Twelve questions. One source of truth.**
 
 This is the **product marketing / product management intersection** — the foundation that both IDD (development) and IDM (marketing) build from.
 

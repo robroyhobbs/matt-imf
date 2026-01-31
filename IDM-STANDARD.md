@@ -39,6 +39,7 @@ The **marketing/** folder contains marketing-specific execution — how we bring
 
 ```
 shared/                    →  What we agree on (with product)
+├── PRODUCT.md                 What it is, capabilities, scope
 ├── PERSONAS.md                Who buys, use cases
 ├── POSITIONING.md             Problem, solution, boundaries
 ├── VALUE-PROPS.md             Features → outcomes
@@ -82,7 +83,7 @@ project/
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  shared/ (Joint ownership with product)                     │
-│  - Personas, positioning, value props, evidence             │
+│  - Product, personas, positioning, value props, evidence    │
 │  - The "meeting ground" — both teams reference this         │
 ├─────────────────────────────────────────────────────────────┤
 │  marketing/brand/ (Marketing-owned, stable)                 │
@@ -348,7 +349,8 @@ Marketing doesn't work in isolation. The connection points:
 
 | Marketing needs... | Which comes from... |
 |--------------------|---------------------|
-| What the product actually does | Development (IDD) |
+| What the product is | shared/PRODUCT.md |
+| How it works technically | Development (IDD) |
 | Who we're selling to | shared/PERSONAS.md |
 | What problems we solve | shared/POSITIONING.md |
 | What we can claim | shared/EVIDENCE.md |
@@ -362,6 +364,7 @@ Marketing doesn't work in isolation. The connection points:
 
 ### Start With
 
+- `shared/PRODUCT.md` — What we're selling
 - `shared/PERSONAS.md` — Who we're talking to
 - `shared/POSITIONING.md` — Problem we solve
 - `marketing/INTENT.md` — Marketing overview
@@ -387,6 +390,7 @@ Start simple, add when needed:
 
 ```
 Stage 1: Minimal
+├── shared/PRODUCT.md             # What we're selling
 ├── shared/PERSONAS.md            # Who we're talking to
 ├── shared/POSITIONING.md         # What problem we solve
 ├── marketing/INTENT.md           # Marketing overview

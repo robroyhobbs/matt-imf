@@ -65,6 +65,7 @@ Canonical facts within each domain. The "source of record" that all claims are v
 │  └── Dependencies               └── Competitive Position    │
 │                                                             │
 │  SHARED (The Meeting Ground)                                │
+│  ├── Product (what it is, capabilities, scope)              │
 │  ├── Personas (who buys, use cases, triggers)               │
 │  ├── Positioning (problem, solution, boundaries)            │
 │  ├── Competitive (why us, objections, responses)            │
@@ -150,6 +151,7 @@ project/
 │   ├── INTENT.md                     # L0: Strategic Intent
 │   │
 │   ├── shared/                       # The Meeting Ground
+│   │   ├── PRODUCT.md                # What it is, capabilities, scope
 │   │   ├── PERSONAS.md               # Who buys, use cases, triggers
 │   │   ├── POSITIONING.md            # Problem, solution, boundaries
 │   │   ├── COMPETITIVE.md            # Why us, objections, responses
@@ -329,6 +331,7 @@ intent/
 intent/
 ├── INTENT.md
 ├── shared/
+│   ├── PRODUCT.md         # What it is, capabilities
 │   ├── PERSONAS.md        # Who buys, use cases
 │   ├── POSITIONING.md     # Problem, solution, boundaries
 │   ├── VALUE-PROPS.md     # Features → outcomes
@@ -343,6 +346,7 @@ intent/
 intent/
 ├── INTENT.md
 ├── shared/
+│   ├── PRODUCT.md
 │   ├── PERSONAS.md
 │   ├── POSITIONING.md
 │   ├── COMPETITIVE.md
