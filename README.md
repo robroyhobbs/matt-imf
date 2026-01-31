@@ -117,7 +117,7 @@ Dev and Marketing work from the **same L0 source**. Cross-verification ensures c
 
 ## Shared Components: The Meeting Ground
 
-The shared layer is where Product and Marketing **must agree**. Seven files answer ten questions:
+The shared layer is where Product and Marketing **must agree**. Eight files answer twelve questions:
 
 | File | Questions Answered |
 |------|-------------------|
