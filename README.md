@@ -161,7 +161,7 @@ Markup syntax:
 We are an AI-Native Engineering company.
 :::
 
-::: reviewed {by=matt date=2026-01-30}
+::: reviewed {by=marketing-lead date=2026-01-30}
 ## Developer Messaging
 "Build identity-aware applications without managing credentials"
 :::
@@ -253,13 +253,15 @@ project/
 
 The DID (Decentralized Identity) documentation and website project is the first test case for IMF.
 
-**Outputs:**
+> **Note:** The DID project document contains **illustrative placeholder content** to demonstrate the framework structure. Actual product specifications, technical details, and messaging would be developed through the IMF process with stakeholders.
+
+**Planned Outputs:**
 - DID Technical Documentation (from IDD)
 - DID Marketing Website (from IDM)
 - DID Diagrams and Visuals (from shared)
 - DIF/W3C Submission Materials (from IDD L1)
 
-See [IMF-DID-PROJECT.md](IMF-DID-PROJECT.md) for the full implementation plan.
+See [IMF-DID-PROJECT.md](IMF-DID-PROJECT.md) for the structural template.
 
 ---
 

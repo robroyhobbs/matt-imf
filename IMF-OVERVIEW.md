@@ -342,7 +342,7 @@ See `IMF-DID-PROJECT.md` for detailed implementation plan.
 - Single source of truth for vision
 - Any leader can define strategic intent for their domain
 
-### For Marketing (Matt)
+### For Marketing
 - No more reverse-engineering dev specs
 - Clear boundaries on what claims are verified
 - AI content that matches product reality

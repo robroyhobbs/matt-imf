@@ -293,7 +293,7 @@ did:abt:<multibase-encoded-public-key>
 
 ## Core Message Hierarchy
 
-::: reviewed {by=matt date=2026-01-30}
+::: reviewed {by=marketing-lead date=2026-01-30}
 ### Badge
 "Own Your Identity"
 
@@ -313,7 +313,7 @@ did:abt:<multibase-encoded-public-key>
 
 ### For Developers
 
-::: reviewed {by=matt date=2026-01-30}
+::: reviewed {by=marketing-lead date=2026-01-30}
 **Hook:** "Build identity-aware apps without managing user credentials"
 
 **Problem:** Managing user identity is a liability — security breaches,
@@ -334,7 +334,7 @@ claims without storing credentials. Users control their data, you reduce risk.
 
 ### For Enterprises
 
-::: reviewed {by=matt date=2026-01-30}
+::: reviewed {by=marketing-lead date=2026-01-30}
 **Hook:** "Compliance-ready identity infrastructure that you control"
 
 **Problem:** Identity systems are either locked to vendors or require
@@ -354,7 +354,7 @@ Issue and verify credentials without third-party dependencies.
 
 ### For Consumers
 
-::: reviewed {by=matt date=2026-01-30}
+::: reviewed {by=marketing-lead date=2026-01-30}
 **Hook:** "Your digital identity, truly yours"
 
 **Problem:** Every site wants you to create an account, remember passwords,
@@ -532,9 +532,9 @@ accounts. Share only what's needed. Revoke access anytime.
 | Role | Person | Responsibilities |
 |------|--------|------------------|
 | Strategic Owner | Leadership | L0 approval, final sign-off |
-| Marketing Lead | Matt | IDM intent, messaging approval |
+| Marketing Lead | Marketing Lead | IDM intent, messaging approval |
 | Dev Lead | TBD | IDD intent, technical accuracy |
-| AI Operator | Matt/Dev | Run generation, verification |
+| AI Operator | Team Member | Run generation, verification |
 | Reviewer | All | Human review of generated content |
 
 ---

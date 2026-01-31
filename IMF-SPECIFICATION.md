@@ -248,7 +248,7 @@ Same fenced div format as IDD:
 We are an AI-Native Engineering company, not a blockchain company.
 :::
 
-::: reviewed {by=matt date=2026-01-30}
+::: reviewed {by=marketing-lead date=2026-01-30}
 ## Developer Messaging
 "Build identity-aware applications without managing credentials"
 :::
